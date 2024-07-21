@@ -23,7 +23,7 @@ This Opportunity and completion dataset contains details on the opportunities av
 --Xcelerate
   --README.md
   --eda
-    --analysis.sql
+    --analysis.sql [User dataset cleaned] [Opportunity dataset cleaned]
     --queries.sql
     --results
     --summary
