@@ -24,7 +24,7 @@ $ ./tree-md .
 * [README.md](./tree-md)
  * [dir2](./dir2)
    * [UserAnalysis.sql]([./dir2/file21.ext](https://github.com/ValerieAkam/Xcelerate/blob/main/USERDATA2.sql))
-   * [OpportunityAnalysis.sql](./dir2/file22.ext)
+   * [OpportunityAnalysis.sql](Opportunity2.sql)
    * [queries.sql](./dir2/file23.ext)
    * [results]
    * [summary]
