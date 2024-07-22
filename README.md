@@ -21,15 +21,16 @@ This Opportunity and completion dataset contains details on the opportunities av
   
 ## Project Structure
 $ ./tree-md .
-* [README.md](./tree-md)
- * [Data Cleaning](./dir2)
+* [README.md](README.md)
+ * Data Cleaning
    * [UserAnalysis.sql](USERDATA2.sql)
    * [OpportunityAnalysis.sql](Opportunity2.sql)
-   * [queries.sql](ExcelerateEDA.sql)
-* [results]
+* Data Analysis
+   * [EDA.sql](ExcelerateEDA.sql)
+* Results
    * [Dashboard1](https://public.tableau.com/views/ExcelerateDashboard1/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
    * [Dashboard2](https://public.tableau.com/views/ExcelerateDashboard2/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
- * [rawdata](./dir1)
+ * Rawdata
    * [userdata.csv](./dir1/file11.ext)
    * [opportunity.csv](./dir1/file12.ext)
  * [EDAreport.pdf](./file_in_root.ext)
