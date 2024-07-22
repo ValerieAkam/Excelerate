@@ -20,7 +20,6 @@ This Opportunity and completion dataset contains details on the opportunities av
   Profile-Id, Opportunity_Id, Opportunity_Name, Opportunity_Category, Opportunity_Start_Date, Opportunity_End_Date, Apply_Date, Gender, City, State, Country, Zip_Code,    Graduation_Date_YYYY_MM, Current_Student_Status, Current_Intended_Major, Status_Description, Reward_Amount, Badge_Id, Badge_Name, Skill_Points_Earned, Skills_Earned.
   
 ## Project Structure
-$ ./tree-md .
 * [README.md](README.md)
  * Data Cleaning
    * [UserAnalysis.sql](USERDATA2.sql)
