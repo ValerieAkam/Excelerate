@@ -22,13 +22,13 @@ This Opportunity and completion dataset contains details on the opportunities av
 ## Project Structure
 $ ./tree-md .
 * [README.md](./tree-md)
- * [dir2](./dir2)
-   * [UserAnalysis.sql]([./dir2/file21.ext](https://github.com/ValerieAkam/Xcelerate/blob/main/USERDATA2.sql))
+ * [Data Cleaning](./dir2)
+   * [UserAnalysis.sql](USERDATA2.sql)
    * [OpportunityAnalysis.sql](Opportunity2.sql)
-   * [queries.sql](./dir2/file23.ext)
-   * [results]
-   * [summary]
-   * [charts]
+   * [queries.sql](ExcelerateEDA.sql)
+* [results]
+   * [Dashboard1](https://public.tableau.com/views/ExcelerateDashboard1/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+   * [Dashboard2](https://public.tableau.com/views/ExcelerateDashboard2/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  * [rawdata](./dir1)
    * [userdata.csv](./dir1/file11.ext)
    * [opportunity.csv](./dir1/file12.ext)
