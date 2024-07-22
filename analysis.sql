@@ -1,1 +1,1 @@
-git rm unwanted-analysis.sql
+git rm 
