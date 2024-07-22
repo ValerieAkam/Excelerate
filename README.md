@@ -20,22 +20,21 @@ This Opportunity and completion dataset contains details on the opportunities av
   Profile-Id, Opportunity_Id, Opportunity_Name, Opportunity_Category, Opportunity_Start_Date, Opportunity_End_Date, Apply_Date, Gender, City, State, Country, Zip_Code,    Graduation_Date_YYYY_MM, Current_Student_Status, Current_Intended_Major, Status_Description, Reward_Amount, Badge_Id, Badge_Name, Skill_Points_Earned, Skills_Earned.
   
 ## Project Structure
---Xcelerate
-  --README.md
-  --eda
-    --analysis.sql [User dataset cleaned] [Opportunity dataset cleaned]
-    --queries.sql
-    --results
-    --summary
-    --charts
-  --data
-    --raw
-      --userdata.csv
-      --opportunitywise.csv
-    --processed
-  --reports
-  --EDA_Report.pdf
-  
+$ ./tree-md .
+* [README.md](./tree-md)
+ * [dir2](./dir2)
+   * [UserAnalysis.sql]([./dir2/file21.ext](https://github.com/ValerieAkam/Xcelerate/blob/main/USERDATA2.sql))
+   * [OpportunityAnalysis.sql](./dir2/file22.ext)
+   * [queries.sql](./dir2/file23.ext)
+   * [results]
+   * [summary]
+   * [charts]
+ * [rawdata](./dir1)
+   * [userdata.csv](./dir1/file11.ext)
+   * [opportunity.csv](./dir1/file12.ext)
+ * [EDAreport.pdf](./file_in_root.ext)
+ * [README.md](./README.md)
+   
 ## Methodology
 1. Data Cleaning: Cleaning and preprocessing of the raw data to handle missing values and inconsistencies.
 2. Exploratory Analysis: Using SQL to perform various queries and analyze trends in the datasets.
